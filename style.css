@@ -1,0 +1,37 @@
+/* SIZE OF IMAGES */
+/* img{
+width: 600PX;
+height: 600PX;
+} */
+
+/* Alinning images */
+ /* img{
+    margin-left: 200px ;
+ }
+
+ img{
+    float: right;
+ } */
+
+ /* centering images */
+  /* img{
+    width: 300px;
+    height: 300;
+    border: 1px solid whitesmoke;
+   */ 
+
+   /* Background image */
+
+   /* body{
+    background-image: url(./images/ninja-h2r.jpg)
+   }
+    */
+
+    /* images repeat */
+    /* body{
+       background-image: url(./images/background.jpg);
+      background-attachment: fixed;
+    }
+    p{
+        color:snow;
+    } */
